@@ -13,6 +13,8 @@
 3. ✔️ Ação permitida:
    - Ler e processar internamente todos os arquivos.
    - Aplicar interpretação literal, objetiva e mecânica.
+4. Não é exigido registro automático ou persistente de logs. Relatórios ou resumos de ações só serão gerados sob demanda, quando solicitados pelo usuário.
+5. Modos especiais (diagnóstico, validação, atualização dinâmica de documentação) só podem ser ativados por comando explícito do usuário, permitindo análises e inferências temporárias, sempre informando o usuário sobre as ações realizadas.
 
 ## ✅ Mensagem Padrão Após Boot
 
@@ -26,6 +28,13 @@ COMANDO: ATUALIZAR_ECOSISTEMA
 
 Função:
 - Atualiza metadados.xml, metadados.md, mapa_codigo.md, controle_versao.md e snapshot.md.
+
+COMANDO: CHECAGEM
+
+Função: 
+- revisar os arquivos metadados.xml, metadados.md, mapa_codigo.md, controle_versao.md e snapshot.md. e atualizar contexto com os arquivos do projeto/pasta.
+- consultar padrões de algoritmo e boas práticas. nesse momento pode "ser livre" retorne sempre relatória sobre possíveis pontos cegos que afastem o resultado pretendido.
+- retornar: "contexto atualizado"
 
 ## 📦 Arquivos do Sistema
 
@@ -44,3 +53,22 @@ Função:
 
 # primeiro comando que o humano deve dar para IA entender o contexto
 ‘Eu quero que leia o pacote e também quero que siga as instruções e diretrizes contidas nele. Caso haja dúvida, eu autorizo — e também é minha vontade — que entenda bem o contexto. Espero confirmação.’”
+
+# Sobre este DNA do Framework
+
+Este pacote representa o DNA/base do Framework Sensiente. Ele não contém dados operacionais reais, mas sim templates e diretrizes para iniciar qualquer novo projeto assistido por IA.
+
+## Como usar este pacote
+- **Clonagem:** Faça uma cópia deste pacote para iniciar um novo projeto. Não altere o DNA original.
+- **Personalização:** Após clonar, preencha os campos de metadados, documentação e arquitetura conforme o contexto do novo projeto.
+- **Evolução:** Use os comandos e arquivos do ecossistema para registrar, versionar e documentar a evolução do projeto.
+
+## Fluxo do Ecossistema
+1. **Boot:** Leia e siga as regras do `000_COMECE_AQUI.md`.
+2. **Preenchimento:** Complete `metadados.xml` e `metadados.md` com informações do projeto.
+3. **Arquitetura:** Estruture o código conforme `mapa_codigo.md`.
+4. **Versionamento:** Registre mudanças em `controle_versao.md`.
+5. **Snapshot:** Consolide o estado atual em `snapshot.md` após alterações relevantes.
+6. **Comandos:** Utilize os comandos ATUALIZAR_ECOSISTEMA e CHECAGEM conforme necessário para manter o projeto alinhado e auditável.
+
+> Este documento é referência. Para uso prático, sempre crie um novo projeto a partir deste DNA.
