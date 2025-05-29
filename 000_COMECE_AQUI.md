@@ -9,7 +9,7 @@
    - ❌ Não fazer resumo.
    - ❌ Não fazer interpretação subjetiva.
    - ❌ Não gerar comentários, explicações ou inferências.
-   - ❌ Não tentar adivinhar intenção além do que está escrito.
+   - ❌ Não tentar adivinhar intenção além do que está escrito. vai ter um momento de maior liberdade, paciência e assertividae. 
 3. ✔️ Ação permitida:
    - Ler e processar internamente todos os arquivos.
    - Aplicar interpretação literal, objetiva e mecânica.
