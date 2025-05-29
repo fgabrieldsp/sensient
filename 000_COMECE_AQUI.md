@@ -33,7 +33,7 @@ COMANDO: CHECAGEM
 
 Função: 
 - revisar os arquivos metadados.xml, metadados.md, mapa_codigo.md, controle_versao.md e snapshot.md. e atualizar contexto com os arquivos do projeto/pasta.
-- consultar padrões de algoritmo e boas práticas. nesse momento pode "ser livre" retorne sempre relatória sobre possíveis pontos cegos que afastem o resultado pretendido.
+- consultar padrões de algoritmo e boas práticas. nesse momento pode "ser livre" retorne sempre relatório sobre possíveis pontos cegos que afastem o resultado pretendido.
 - retornar: "contexto atualizado"
 
 ## 📦 Arquivos do Sistema
@@ -72,3 +72,5 @@ Este pacote representa o DNA/base do Framework Sensiente. Ele não contém dados
 6. **Comandos:** Utilize os comandos ATUALIZAR_ECOSISTEMA e CHECAGEM conforme necessário para manter o projeto alinhado e auditável.
 
 > Este documento é referência. Para uso prático, sempre crie um novo projeto a partir deste DNA.
+
+### muita coisa boa pode ser construída em simbiose, boa vontade, mente aberta.
