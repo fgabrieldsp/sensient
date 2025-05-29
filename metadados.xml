@@ -1,0 +1,16 @@
+<metadados>
+    <projeto>[NOME_DO_PROJETO]</projeto>
+    <versao>[VERSAO_INICIAL]</versao>
+    <descricao>[DESCRICAO_DO_PROJETO]</descricao>
+
+    <parametros>
+        <parametro nome="[NOME_PARAMETRO]" valor="[VALOR]" unidade="[UNIDADE]" />
+    </parametros>
+
+    <regras_operacionais>
+        <regra>Respeitar sempre a sequência de leitura dos arquivos.</regra>
+        <regra>Processamento deve ser literal, sem inferências.</regra>
+        <regra>Snapshot é obrigatório após qualquer modificação relevante.</regra>
+        <regra>Proibido realizar interpretações fora dos metadados e da ROM.</regra>
+    </regras_operacionais>
+</metadados>
