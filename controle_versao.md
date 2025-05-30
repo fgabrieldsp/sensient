@@ -4,6 +4,7 @@
 - Regras e instruções do DNA aprimoradas para garantir autoevolução imparcial e impessoal.
 - Adicionada orientação para criação automática dos arquivos essenciais caso ausentes.
 - Detalhado o fluxo do ecossistema e uso do DNA como referência para novos projetos.
+- Inclusão do comando CHECAGEM, permitindo análise livre e relatório de pontos cegos sob demanda.
 
 ## 🔖 v1.0.0 — [DATA]
 - Criação do template base do Framework Sensiente.
