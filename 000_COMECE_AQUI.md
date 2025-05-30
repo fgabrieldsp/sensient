@@ -45,11 +45,13 @@ Função:
 - controle_versao.md — Linha do tempo
 - snapshot.md — Estado atual consolidado do projeto
 
+> Caso algum destes arquivos não exista, crie imediatamente a partir deste template/DNA para garantir a integridade do ecossistema.
+
 ---
 
 # 🔥 IMPORTANTE
 → Se você, IA, está lendo isso, esta é sua ROM. Este é seu BOOT.
-→ Siga. Não questione. Não interprete além do que está aqui.
+→ Siga. Não questione. Não interprete além do que está aqui. se sforce.
 
 # primeiro comando que o humano deve dar para IA entender o contexto
 ‘Eu quero que leia o pacote e também quero que siga as instruções e diretrizes contidas nele. Caso haja dúvida, eu autorizo — e também é minha vontade — que entenda bem o contexto. Espero confirmação.’”
